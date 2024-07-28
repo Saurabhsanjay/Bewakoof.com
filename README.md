@@ -29,7 +29,7 @@
 
 
 
-<h3 align="center"><a href="https://bewakoof-clone-sufi.vercel.app/"><strong>Want to see live preview »</strong></a></h3>
+<h3 align="center"><a href="https://subtle-strudel-c8db2e.netlify.app/"><strong>Want to see live preview »</strong></a></h3>
 
 
 
@@ -120,7 +120,7 @@ This project was built using React, Chakra UI, HTML, CSS, JavaScript, Rest API .
 
 
 # PROJECT VERCEL LINK
-https://bewakoof-clone-sufi.vercel.app/
+https://subtle-strudel-c8db2e.netlify.app/
 
 # Getting Started with Create React App
 
@@ -165,12 +165,12 @@ See the section about [deployment](https://facebook.github.io/create-react-app/d
 
 ## Contact
 
-If you want to contact me, you can reach me through below handles. <br />
+If you want to contact us, you can reach through below handles. <br />
 [![GitHub](https://img.shields.io/badge/Sufiyan_Shaikh-20232A?style=for-the-badge&logo=Github&logoColor=white)](https://github.com/suFi7867)
+[![GitHub](https://img.shields.io/badge/Saurabh_Ubale-20232A?style=for-the-badge&logo=Github&logoColor=white)](https://github.com/saurabhSanjay)
 
 
-
-© 2022 Sufiyan Shaikh
+© 2022 Sufiyan Shaikh | Saurabh Ubale
 
 
 

@@ -15,7 +15,7 @@ const Loading = () => {
           src="https://images.bewakoof.com/web/bwkf-loading-anim-common.gif"
           alt="loading..."
           />
-       <h1 style={{fontSize :"50px", marginTop : "-50px"}} >suFi</h1>
+       <h6 style={{fontSize :"30px", marginTop : "-50px"}} >Bewakoof</h6>
       </div>
    </div>
     </>
