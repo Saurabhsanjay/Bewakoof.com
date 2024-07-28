@@ -170,7 +170,7 @@ If you want to contact us, you can reach through below handles. <br />
 [![GitHub](https://img.shields.io/badge/Saurabh_Ubale-20232A?style=for-the-badge&logo=Github&logoColor=white)](https://github.com/saurabhSanjay)
 
 
-© 2022 Sufiyan Shaikh | Saurabh Ubale
+© 2024 Sufiyan Shaikh | Saurabh Ubale
 
 
 
